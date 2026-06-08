@@ -111,18 +111,6 @@ The pipeline outputs `logs/monitoring_log.csv` with clean, flat columns optimize
 
 ---
 
-## 🖥️ Screenshots
-
-### Streamlit Dashboard
-
-![Streamlit UI](assets/ui.png)
-
-### Tableau Dashboard
-
-![Tableau Dashboard](assets/tableau.png)
-
----
-
 ## 🛠️ Tech Stack
 
 - **Python 3.10+**
